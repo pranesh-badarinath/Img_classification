@@ -3,6 +3,10 @@ Image classification in matlab
 Image classification in Python
 
 References :
+BASICS OF IMAGE FEATURE EXTRACTION :
+https://youtu.be/AAs2yCa7G14
+
+
 DCT
 https://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/node231.html
 
